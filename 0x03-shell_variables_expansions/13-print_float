@@ -1,0 +1,2 @@
+#!/bin/bash
+ptinf "%.2f" $SUM | sort
